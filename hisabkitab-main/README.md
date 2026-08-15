@@ -1,3 +1,7 @@
+## 🔗 Links
+- **Live Application:** https://hisabkitab-frontend.onrender.com
+- **Backend API:** https://hisabkitab-main.onrender.com
+
 # HisabKitab - Smart Digital Ledger Management System
 
 Full-stack application for managing credit/debit transactions.
